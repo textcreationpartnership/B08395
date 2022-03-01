@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The weapons of the people called Quakers turn'd backward, by the shield of truth ; the fountain whereof is the rock and sure defence of that despised contemptible instrument / Elizabeth Atkinson.</title>
+            <author>Atkinson, Elizabeth.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08395</idno>
+            <idno type="STC">Wing A4129B</idno>
+            <idno type="STC">ESTC R215419</idno>
+            <idno type="EEBO-CITATION">69648495</idno>
+            <idno type="OCLC">ocm 69648495</idno>
+            <idno type="VID">184832</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08395)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184832)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2872:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The weapons of the people called Quakers turn'd backward, by the shield of truth ; the fountain whereof is the rock and sure defence of that despised contemptible instrument / Elizabeth Atkinson.</title>
+                  <author>Atkinson, Elizabeth.</author>
+               </titleStmt>
+               <extent>10 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year 1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Massachusetts Historical Society Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  England --  Controversial literature --  Early works to 1800.</term>
+               <term>Society of Friends --  England --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:184832:1"/>
+            <p>THE WEAPONS Of the PEOPLE called QUAKERS, Turn'd backward, by the Shield of Truth; the Fountain whereof is the Rock, and ſure Defence of that Deſpiſed, Contemptible Inſtrument, ELIZABETH ATKINSON.</p>
+            <q>
+               <p>Being Confident and Sure that the Floods of Reproach caſt out of their Mouth ſhall not Prevail.</p>
+               <p>Wherefore my Soul doth Magnifie the Lord, and my Spirit Rejoyceth in God my Saviour.</p>
+            </q>
+            <p>Printed in the Year, 1669.</p>
+         </div>
+      </front>
+      <body>
+         <div type="book">
+            <pb facs="tcp:184832:2"/>
+            <pb n="3" facs="tcp:184832:2"/>
+            <head>The Weapons of, <hi>&amp;c.</hi>
+            </head>
+            <p>YE People, who would be counted <hi>Iſraelites</hi> in the Spirit, and call your the ſelves choſen of the Lord, owning your ſelves a Body of Friends, when any ſmooth things are ſpoken to you; but rage when the pillows are torn from under your Arms.</p>
+            <p>Though I ſhall not take notice of your Words or Writings, ſo as to anſwer all your malicious Forgeries; yet if ever you or any of you recover the uſe of your ſenſes, then take notice, how the pride of your vain-glorious Spirits hath tranſported you be<g ref="char:EOLhyphen"/>yond truth and ſobriety ſo long profeſſed by you.</p>
+            <p>You ſeem to ground your firſt Objection from my ſpeaking in the plural Number, which you ſay are general Terms. And in great Rage you cry out, <hi>Who but an impudent perſon,</hi> &amp;c.</p>
+            <p>To which I anſwer: Pride hath blinded you; Doth the word <hi>(Thoſe) that practiſed honeſty,</hi> &amp;c. more include all that practiſed honeſty, then the word <hi>(They)</hi> or this people draw near to the Lord with their lips, <hi>&amp;c.</hi> did include, All that drew near unto the Lord with their lips?</p>
+            <p>Neither will your ſubtilty take effect, wherein you would per<g ref="char:EOLhyphen"/>ſwade people as if I, by a looſe Life had more knowledge or intimacy with your ſeeming holy Hypocrites, then the chief of you; which is known to be an apparent falſhood; for had I been as ſenſible of your groſs Hypocriſie then, as now, I ſhould have had as much familiarity then as I now have with you, which is none at all: but it is evidently known they had more acquaintance and approbation with your Miniſters, then ever they had with me. And if I were diſpoſed to particularize perſons and their fruits, ſince your pretending to walk by the light you call Chriſt in you; I ſhould not need to cloath you in any other then your own defi<g ref="char:EOLhyphen"/>led
+<pb n="4" facs="tcp:184832:3"/> habit, to make you appear what you would not be thought to be; I am ſure a ſmaller piece of Paper would contain your Re<g ref="char:EOLhyphen"/>maining Vertues; For your corrupted body hath of late broken out with putrified ſores in ſeveral parts, not only in your mean Members of ſmall account, but in the chief and principle parts thereof, who ſeemed to guide the reſt; And it may as truly be ſaid to you as it was to the <hi>Iſraelites</hi> of old, <hi>That from the ſole of the foot, to the head there is no ſoundneſs in it;</hi> though not every part broken out with one and the ſame diſeaſe: How often was the houſe of <hi>Iſrael</hi> reproved in General Terms, <hi>yea,</hi> and pleaded withall as if they were one ſingle perſon, as may be ſeen by Record, <hi>Ezekiel</hi> the 16. Chap. and <hi>Numbers</hi> the 25. Chapter? Neither was <hi>Jeremiah</hi> to be branded as an impudent perſon, though he told them in ge<g ref="char:EOLhyphen"/>neral terms, <hi>they</hi> were as fed horſes, <hi>Neighing</hi> after their <hi>Neigh<g ref="char:EOLhyphen"/>bours wife;</hi> yet there was a Remnant for whoſe ſake they were not made as <hi>Sodome</hi> and <hi>Gomorrah;</hi> Neither do I doubt, but that there is among you a Remnant that may obtain mercy to have the leaven of the Phariſees purged out, by faith in that Jeſus whom they are yet ignorant of; and then they will no longer take part with you, in reviling thoſe that ſhew you ſome of the dirt that you have ſpotted your ſelves withall, ſince you were lifted up in ſpiritual pride, ſtanding afar off, as if the Garments of others would defile you; and when thoſe deceived people that now have an eſteem of your ſpirit ſhall come to the knowledge of the truth, they will find the greateſt Number of you to be <hi>A Generation of Vipers.</hi>
+            </p>
+            <p>And now as to your Query, what I have againſt your Princi<g ref="char:EOLhyphen"/>ples; wherein you only pervert my words by your own ſerpen<g ref="char:EOLhyphen"/>tine ſpirits, falſly ſaying that I have blaſphemouſly accuſed the light, and ſtaggered like a drunken perſon; but I know this judg<g ref="char:EOLhyphen"/>ment of yours proceedeth from the giddineſs of your own heads, that thinks others ſtagger when they ſtand upon firm ground: Wherefore as to your Principles, I have this to ſay, that though you may repeat the Law every Meeting Day, yet I know and te<g ref="char:EOLhyphen"/>ſtifie that you are yet Unbelievers, and have not the knowledge of the true God and Saviour of them that believe; Who promiſed in the Beginning to Bruiſe the Head of the Serpent, and his pro<g ref="char:EOLhyphen"/>miſe the Saints believed; which was imputed to them for Righte<g ref="char:EOLhyphen"/>ouſneſs; and when the fulneſs of time was come he faithfully per<g ref="char:EOLhyphen"/>formed
+<pb n="5" facs="tcp:184832:3"/> his promiſe, by taking our Nature upon him, ſin excepted; who by ſuffering at the hands of unbelievers, having paſſed through deaths Kingdome, according to his promiſe raiſed up the Temple of his Body in three dayes; and this ſpiritual Body both before and after his Aſcenſion, gave the Saints full Aſſurance of their own Reſurrection and Salvation; this light and knowledge you are not yet partakers of, though you ſo much take the name of light in your mouths: Neither can that light in every mans nature (though you have fed ſo long upon it, not being enlightned with the light of faith) apprehend this Myſtery of God, being manifeſt in the fleſh of Chriſt, and laying down his life that he might quick<g ref="char:EOLhyphen"/>en again and riſe a ſpiritual Body, which aſcended into the high<g ref="char:EOLhyphen"/>eſt Heavens: but the pride of mans rational ſpirit is always aſpi<g ref="char:EOLhyphen"/>ring to be a GOD, though it was made to be a Subject; where<g ref="char:EOLhyphen"/>fore it's light is become darkneſs, that it neither knows beginning nor ending of it's <hi>Miſery,</hi> until it's Crown is laid down at the foot of Jeſus by Reſignation, and becometh a child again; indeed God made the Spirit of Reaſon, yet it was not ſerpentine until it aſpired; which cauſed the Lord to withhold his flowing vertues, and then it became dark, and received a name ſutable to its na<g ref="char:EOLhyphen"/>ture; which being by the firſt mans diſobedience defiled, is not<g ref="char:EOLhyphen"/>withſtanding bridled by the law or light placed in every mans na<g ref="char:EOLhyphen"/>ture by the bright, ſhining and living <hi>Jehovah;</hi> who afterward to accompliſh the work of mans Redemption, did manifeſt himſelf in the perſon and name of <hi>Jeſus;</hi> whom the Profeſſors of the firſt Covenant would not believe in, though he came to eſtabliſh the Second upon better promiſes, yet they accuſed him for the law<g ref="char:EOLhyphen"/>breaker: The corrupted ſpirit of man is very zealous in making large profeſſion of keeping the Law, when for want of purifying faith in Chriſt, it is quite-dark and ignorant of him the only Sa<g ref="char:EOLhyphen"/>viour; and ſo makes idols of his handy-works; which if uſed in its place would manifeſt and declare the wiſdome and power of God, the Fountain from whence the whole Creation did flow: But there is none but the enlightned by Faith in Jeſus, can under<g ref="char:EOLhyphen"/>ſtand the myſtery of Salvation through his crucified body; though they may rejoyce before their Idol, as the children of <hi>Iſrael</hi> did, when they provoked the true God, by attributing their deliver<g ref="char:EOLhyphen"/>ance to a piece of the Creation: who would have a thought a
+<pb n="6" facs="tcp:184832:4"/> people groaning ſo long for deliverance ſhould when it came, have been ſo blind to proclaim before an Idol, <hi>Behold thy Gods, O Iſrael, that brought thee out of the Land of</hi> Egypt: But though the Lord ſuffered their idolatrous provoking ſpirits to travel and <hi>mul<g ref="char:EOLhyphen"/>tiply</hi> in the Wilderneſs to make known more of his power; yet it was but a very ſmall Remnant that were permitted to enter into the land of Promiſe; wherefore you boaſters that think you have more light than your Forefathers: Yet know though your iniquity is more myſterious, it is diſcovered to be as Great, if not greater idolatry to worſhip the likeneſs of any thing in the Heavens above, as in the Earth beneath; For though God made Man in his own image or likeneſs; yet he was a Creature and ſubject to change from his created purity, as he did, though he was created Good, as all the reſt of the Creation was; Wherefore he was capable of Death; and it is clear to the Eye of Faith, though not to Reaſon, that death came upon all, as being the offspring generated from corrupted <hi>Adam</hi> and <hi>Eve</hi> our firſt Parents, and the Reſurrection from the Dead could be no way procured; but by the Lord of Glory, who abaſed himſelf and came in the form of a Servant, though he were Lord of All; And not for an Example only; but to triumph over death that would have kept all under, and then the reprobate had never been raiſed to Eternal Judgement, nor the Elect to Everlaſting Happineſs: But this was the promiſed Reſtoration, which the Believers hoped for, and truſted in, being grafted thereinto by the Union of Faith.</p>
+            <p>But the Phariſees trample this precious Pearl under feet; be<g ref="char:EOLhyphen"/>cauſe their carnal ſpirits cannot underſtand the worth of it: nei<g ref="char:EOLhyphen"/>ther can you that are kicking and ſmiting againſt further light diſpenced, becauſe it comes not out from amongſt you; but you ſhall find if you go on, that you will ſurely fall though four hundred to one ſay to the contrary. Wherefore it is not your collecting out of Scripture what light and knowledge the Saints injoyed by believing in Jeſus that will do you any good, ſeeing you have not believed in him, even the man Chriſt Jeſus, that you alſo might have had the revelation and knowledge inſpired into you of the Glory of God in the Face of Chriſt; For theſe Saints that were thus enlightned, gave all Honour and Glory to him that conquer'd Death, the Alpha and Omega, the firſt and the laſt, who was dead
+<pb n="7" facs="tcp:184832:4"/> and is alive, and lives for evermore. Neither would the Angel that had power to ſhew this Revelation endure to be worſhipped; for he ſaid, I am alſo a fellow ſervant: and I know were you ſen<g ref="char:EOLhyphen"/>ſible how Chriſt lives in the hearts of Believers by Faith you would not thus blindly accuſe me; For I never denyed any light, nor the Office of it appointed by God the Fountain and Original of all Lights, who diſpenceth it according to his own pleaſure, that he might have all the glory: And though you hate me, yet I muſt tell you the truth, it is but your own ſpirits that you worſhip, being lifted up by the inlightning of the law within you, ſhewing you good and evil: hence I know it is the ſpirit of the Serpent in you as it was in the Phariſees, that directed them to reject the juſtifica<g ref="char:EOLhyphen"/>tion of Faith in the Blood of Chriſt, and ſtick to the juſtification of the law by their own works: Though I do certainly know that the Regenerated by Faith in Jeſus, do more ſingly perform the honeſt and true intents of the Law then the Phariſees with all their outward ſeeming holineſs; For the Believers are conſtrained by love (which is the law of faith) to act juſtly, though they know their eternal Happineſs and Recovery ariſeth not from any thing performed by them, but from Chriſt the Author of their faith, by taking upon him unſpotted fleſh; and when that deceived Rem<g ref="char:EOLhyphen"/>nant amongſt you, ſhall be inlightned with the knowledge of the whole truth: Then they will ſee that you are not juſtified in your Principles, by what I formerly wrote to you, though you take it to your ſelves; For you have not that light of faith in you to believe or underſtand how Chriſt is the Sacrifice once for all in his own perſon; Neither are you in the ſtate of Man in the firſt Creation, though you have had ſome ſenſe of convincements by the Law; which is general to all men; becauſe all are included under ſin, being generated from fallen Parents, who by defilement loſt their firſt ſtate, by aſpiring to be wiſe as Gods; which pride when it was received, cauſed them to feel the Effects of threatned wrath, which was the entrance of Death and Mortality, upon them and their poſterity; which was as ſurely fulfilled, as all the words of the Lord are in their appointed time; for the account of the Lord who is Eternity is not like unto mens, who are blinded by the fall, and the promiſe of reſurrection to life, was, is, and ſhall be, as ſurely fulfilled to Believers, as the reſurrection to condemnation to un<g ref="char:EOLhyphen"/>believers:
+<pb n="8" facs="tcp:184832:5"/> and in that day the Reprobate though he believe it not, will be ſurprized with the ſecond ever dying Death, not having Faith or Belief in Chriſt the firſt Reſurrection; for though theſe ſubſtantial things are figured out to us in ſeveral diſpenſa<g ref="char:EOLhyphen"/>tions; yet it is only the Elect that have the faith and patience to wait for the accompliſhment of them: But the Reprobate conti<g ref="char:EOLhyphen"/>nually ſetteth the Figure in the place of the Subſtance. The Pha<g ref="char:EOLhyphen"/>riſees had not accuſed the Lord of Life for a Blaſphemer, Had they not truſted in the righteouſneſs of the Law, which was the greateſt diſpenſation of light diſcovered by them in their dayes; yet they knew not the Fountain when he manifeſted himſelf, and openly declared himſelf ſo; for had they known they would not have Crucified the Lord of Glory, and taken his blood upon them<g ref="char:EOLhyphen"/>ſelves. I hope there is ſome that are yet amongſt you, who will ſee the truth of what I ſay, and that I have not denyed Chriſt the Inlightner of the Saints, but have only denyed your Imaginati<g ref="char:EOLhyphen"/>ons built upon the enlightning of the law or light in you, which is become darkneſs though you have given it the name of Lord and Saviour, and are performing ſome of the Punctilioes of the letter which you do not rightly underſtand. It is the giving high and honourable titles to your deceived imaginations that hath de<g ref="char:EOLhyphen"/>ceived the ſimple, being lifted up in pride under a feigned ſhew of humility in outward habit; But I am confident in what I affirm that it is your own ſpirit which you worſhip, being lifted up by the inlightning of the law which is good and profitable to them that uſe it in its right place, but in the place you have ſtated it makes you uncapable of benefit in Chriſt; this myſtical idolatry began to appear above ground in thoſe forward ſprouts that ſang <hi>Ho<g ref="char:EOLhyphen"/>ſanna,</hi> whoſe top Branches you have nipped, but the root of the matter remaineth ſtill in you; which hath appeared ſeveral times ſince in your confuſed actings from the motions of your confuſed ſpirits; but your puniſhment belongs to the King of Kings againſt whom you commit ſpiritual High Treaſon. You put forth an en<g ref="char:EOLhyphen"/>vious Queſtion, What help I had in compoſing my Paper written to you, which you have named after your own kindred? but though you ask it in pride and ſcorn, I ſhall anſwer it in truth and plainneſs; by negligence in the Printing there was ſome words miſplaced, which did ſomething wrong the ſenſe of it, and this
+<pb n="9" facs="tcp:184832:5"/> was all the help I had from any man in the wording of it; and for approvers I never ſought after any; but what approbation it would have with you, I was very ſenſible of, as I have ſufficiently experienced ſince, from the raging tongues of your confuſed Mul<g ref="char:EOLhyphen"/>titude: you ſeem to reprove me for Blindneſs, wherein you diſ<g ref="char:EOLhyphen"/>cover your own blind preſumption; Let the ſober-minded conſi<g ref="char:EOLhyphen"/>der, whether the Lords accounting the believing Children of the promiſe to be the ſeed of Faith that ſhall inherit the Kingdom, Did import an impoſſibility in them to ſin; For their uniting to Chriſt the holy Off-ſpring that could not ſin, was by the union of faith, which faith was the Righteouſneſs of that Remnant that followed the Lord in every diſpenſation according to his Com<g ref="char:EOLhyphen"/>mand; but uoy that have not followed him are become ſo blind that you know not Light from Darkneſs, which makes you cavil at that which is clear to the Eye of Faith; For the children of <hi>Iſrael</hi> were called and adorned by the Lord, though <hi>Moſes</hi> were the in<g ref="char:EOLhyphen"/>ſtrument to declare it to them; But when they would not ſtay for further Counſel, but concluded it was a vain thing to worſhip a God at a diſtance, then did their imagination make an Idol to go before them, which cauſed them to be as dark as the <hi>Egyptians</hi> Darkneſs which they departed from; and a time will come when ſome of you, will read the figure right though the reſt will be hardned; As for the reſt of your ſuperfluous falſhoods and threatnings which aſcendeth out of your Bottomleſs Pit, I ſhall not take particular notice of it, being aſſured you have no more power to hurt me then you have to ſave your ſelves.</p>
+            <p>But as to your laſt Queſtion what fruits I am bringing forth, I ſhall leave that to the Teſtimony of thoſe that ſees it, who are beſt able to give an account of it, if they be unbiaſſed and without prejudice? And whether you be an innocent people in General, or a corrupted people blinded with pride and ignorance though wrapt up in a pretended innocent outſide, there are witneſſ s many who have teſtified thereof no more then they know to be truth; yet I do not deny but that there is ſome amongſt your Multitude who are yet ignorant both of the myſtery of in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>quity that firſt entered, and alſo of ſome groſs Evils ariſing from the Ground curſed for the firſt offence: But the appointed Remnant ſhall be recalled to their Everlaſting peace, though they may be
+<pb n="10" facs="tcp:184832:6"/> long deceived as I was by the fair pretences of thoſe that talk of perfection while they themſelves were the ſervants of corruption. But the ſelf-juſtifying Phariſees though they had ſo much light in them to plead for and preach the juſtneſs and righteouſneſs of the Law given out by the Prophets, yet thoſe deſpiſers did wander and periſh, becauſe they would not believe or underſtand the ver<g ref="char:EOLhyphen"/>tues and effects of the Perſonal Suffering, Reſurrection and Aſ<g ref="char:EOLhyphen"/>cenſion of the Lord of Life; Wherefore he pronounced woes to them, ſhewing them that they ſhould be judged by the Law which they truſted in; becauſe they rejected him who was the Righte<g ref="char:EOLhyphen"/>ouſneſs and Recovery to Everlaſting Happineſs of all that belie<g ref="char:EOLhyphen"/>ved in him. And were you not Blind leaders of the Blind, you would ſee how you are dayly taken in your own net? for every tittle of that Law broken which you truſt in for juſtification will make you guilty of All.</p>
+            <p>And for your two Witneſſes that have ſigned this your Birth of ſuppoſed Nobility whoſe Father is known by its language, they cannot be juſtified in this ſordid abuſive Anſwer ſtuffed with re<g ref="char:EOLhyphen"/>proachful Terms and Expreſſions that Envy invented; But when the time of Reaping is paſt, and you begin to taſte the Fruits of what you have ſowed, then ſhall you remember that you were told the Truth by me</p>
+            <closer>
+               <signed>Elizabeth Atkinſon.</signed>
+            </closer>
+            <pb n="3" facs="tcp:184832:7" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="6" facs="tcp:184832:8"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="7" facs="tcp:184832:8"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="8" facs="tcp:184832:9"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:184832:9"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:184832:10"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
